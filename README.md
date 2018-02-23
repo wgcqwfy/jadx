@@ -92,3 +92,10 @@ These options also worked on jadx-gui running from command line and override opt
 *Licensed under the Apache 2.0 License*
 
 *Copyright 2018 by Skylot*
+
+
+
+jadx是一个非常好用的Android反编译gui工具，功能非常的强大，有较为完善的gui界面，已近成为很多开发者的反编译工具首选，jadx主要功能如下：
+1、支持全局的class查询
+2、支持全局的text查询
+3、支持导出gradle工程
